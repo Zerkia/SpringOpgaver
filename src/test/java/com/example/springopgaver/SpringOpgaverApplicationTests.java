@@ -1,0 +1,13 @@
+package com.example.springopgaver;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringOpgaverApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
